@@ -4,6 +4,14 @@ It was made with sdl2, a c++ library which let me open up a window and visualize
 
 This project let me understand how the MergeSort algorithm organizes data in a visual representation, which let me further understand the complexities of sorting systems. This project furthered my experience in coding as I hadn't done anything similar to this before, so I would like to believe that this project would let other students process sorting algorithms more.
 
+## Features
+•Real-time visualization of the merge sort algorithm<br>
+•Divide-and-conquer display showing recursive splitting and merging<br>
+•Color-coded sections to highlight active subarrays<br>
+•Smooth animations with step-by-step merge operations<br>
+•Random data generation for varied demonstrations<br>
+•Interactive window with proper event handling<br>
+
 ### Watch the inspiration video!
 <a href="https://www.youtube.com/watch?v=kPRA0W1kECg" target="_blank">
   <img src="https://img.youtube.com/vi/kPRA0W1kECg/maxresdefault.jpg" width="400"/></a>
