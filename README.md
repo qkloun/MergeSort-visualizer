@@ -18,6 +18,11 @@ The visualization demonstrates the three key phases of MergeSort:
 2. **⚡ Conquer Phase** - Individual elements are sorted (highlighted in green) 
 3. **🔗 Merge Phase** - Sorted subarrays combine back together (highlighted in yellow)
 
+## Time Complexity
+- Best Case: **O(n log n)**
+- Average Case: **O(n log n)**
+- Worst Case: **O(n log n)**
+
 ### Watch the inspiration video!
 <a href="https://www.youtube.com/watch?v=kPRA0W1kECg" target="_blank">
   <img src="https://img.youtube.com/vi/kPRA0W1kECg/maxresdefault.jpg" width="400"/></a>
