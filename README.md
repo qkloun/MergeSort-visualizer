@@ -23,7 +23,17 @@ The visualization demonstrates the three key phases of MergeSort:
 - Average Case: **O(n log n)**
 - Worst Case: **O(n log n)**
 
-### Watch the inspiration video!
+## Learning Outcomes
+Building this visualizer helped me:
+- Understand the recursive nature of divide-and-conquer algorithms
+- Work with graphics programming using SDL2
+- Translate abstract algorithms into visual representations
+- Improve my C++ skills in a practical, engaging way
+
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the visualization or add new features.
+
+## Watch the inspiration video!
 <a href="https://www.youtube.com/watch?v=kPRA0W1kECg" target="_blank">
   <img src="https://img.youtube.com/vi/kPRA0W1kECg/maxresdefault.jpg" width="400"/></a>
 
