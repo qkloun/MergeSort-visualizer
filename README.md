@@ -18,7 +18,20 @@ The visualization demonstrates the three key phases of MergeSort:
 2. **⚡ Conquer Phase** - Individual elements are sorted (highlighted in green) 
 3. **🔗 Merge Phase** - Sorted subarrays combine back together (highlighted in yellow)
 
-## Time Complexity
+### Visual Example
+```
+Unsorted: [38, 27, 43, 3, 9, 82, 10]
+           ↓
+Divide:   [38, 27, 43, 3] [9, 82, 10]
+           ↓
+Further:  [38, 27] [43, 3] [9, 82] [10]
+           ↓
+Merge:    [27, 38] [3, 43] [9, 82] [10]
+           ↓
+Sorted:   [3, 9, 10, 27, 38, 43, 82]
+```
+
+### Time Complexity
 - Best Case: **O(n log n)**
 - Average Case: **O(n log n)**
 - Worst Case: **O(n log n)**
